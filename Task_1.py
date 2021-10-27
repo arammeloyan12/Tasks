@@ -143,5 +143,4 @@ class Interface:
                 break
 
 
-Interface.interface()
-# C:/Users/aramm/Downloads/sample3.txt
+#Interface.interface()
